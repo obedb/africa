@@ -133,7 +133,7 @@ body {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("http://res.cloudinary.com/sharaz/image/upload/v1513185470/header-bg_j6ik5o.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -441,7 +441,7 @@ header.masthead {
 
 section#contact {
   background-color: #212529;
-  background-image: url("../img/map-image.png");
+  background-image: url("http://res.cloudinary.com/sharaz/image/upload/v1513185769/map-image_yrmp5v.png");
   background-repeat: no-repeat;
   background-position: center; }
   section#contact .section-heading {
