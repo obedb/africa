@@ -133,7 +133,9 @@ body {
 header.masthead {
   text-align: center;
   color: white;
+
   background-image: url("http://res.cloudinary.com/sharaz/image/upload/v1513185470/header-bg_j6ik5o.jpg");
+
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
