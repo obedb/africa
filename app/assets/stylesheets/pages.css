@@ -11,7 +11,7 @@ p {
   line-height: 1.75; }
 
 a {
-  color: #fed136; }
+  color: #FF0000; }
   a:hover {
     color: #fec503; }
 
@@ -54,8 +54,8 @@ section {
   padding: 20px 40px; }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136; }
+  background-color: #FF0000;
+  border-color: #800000; }
   .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
     background-color: #fec810 !important;
     border-color: #fec810 !important;
@@ -134,7 +134,7 @@ header.masthead {
   text-align: center;
   color: white;
 
-  background-image: url("http://res.cloudinary.com/sharaz/image/upload/v1513185470/header-bg_j6ik5o.jpg");
+  background-image: url("http://res.cloudinary.com/sharaz/image/upload/v1513245848/Header-1-01_g6f0dt.jpg");
 
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -443,7 +443,7 @@ header.masthead {
 
 section#contact {
   background-color: #212529;
-  background-image: url("http://res.cloudinary.com/sharaz/image/upload/v1513185769/map-image_yrmp5v.png");
+  background-image: url("");
   background-repeat: no-repeat;
   background-position: center; }
   section#contact .section-heading {
