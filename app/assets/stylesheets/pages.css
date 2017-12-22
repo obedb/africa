@@ -78,7 +78,7 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #fed136; }
+  -webkit-tap-highlight-color: #000000; }
 
 #mainNav {
   background-color: #212529; }
@@ -134,7 +134,7 @@ header.masthead {
   text-align: center;
   color: white;
 
-  background-image: url("http://res.cloudinary.com/sharaz/image/upload/v1513955158/Header_Obed_bafsto.jpg");
+  background-image: url("https://media.giphy.com/media/UmGCymuqIzA6k/giphy.gif");
 
   background-repeat: no-repeat;
   background-attachment: scroll;
